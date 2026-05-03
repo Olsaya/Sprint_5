@@ -1,0 +1,6 @@
+main_site = 'https://stellarburgers.nomoreparties.site/'
+registration_url = f'{main_site}register'
+account_url = f'{main_site}account'
+account_login = f'{main_site}login'
+forgot_password_url = f'{main_site}forgot-password'
+account_profile_url = f'{main_site}account/profile'
